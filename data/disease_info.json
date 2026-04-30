@@ -2,25 +2,25 @@
   "Apple___Apple_scab": {
     "name_en": "Apple Scab",
     "name_hi": "सेब का स्कैब",
-    "desc_en": "A fungal disease causing dark, rough spots on leaves and fruits.",
+    "desc_en": "Fungal disease causing dark, rough spots on leaves and fruits.",
     "desc_hi": "यह एक फंगल रोग है जो पत्तियों और फलों पर काले धब्बे बनाता है।",
-    "cure_en": "Use fungicide and remove fallen leaves.",
+    "cure_en": "Apply fungicide and remove fallen leaves.",
     "cure_hi": "फफूंदनाशक का उपयोग करें और गिरी हुई पत्तियों को हटाएं।"
   },
   "Apple___Black_rot": {
     "name_en": "Apple Black Rot",
-    "name_hi": "सेब का ब्लैक रॉट",
-    "desc_en": "Causes fruit rot and leaf spots due to fungal infection.",
-    "desc_hi": "यह फंगल संक्रमण के कारण फल सड़ने और पत्तियों पर धब्बे बनाता है।",
+    "name_hi": "सेब ब्लैक रॉट",
+    "desc_en": "Causes fruit rot and dark lesions on leaves.",
+    "desc_hi": "यह फल सड़न और पत्तियों पर काले धब्बे बनाता है।",
     "cure_en": "Prune infected parts and apply fungicide.",
     "cure_hi": "संक्रमित भागों को काटें और फफूंदनाशक का उपयोग करें।"
   },
   "Apple___Cedar_apple_rust": {
-    "name_en": "Apple Cedar Rust",
-    "name_hi": "सेब सीडर रस्ट",
-    "desc_en": "Fungal disease causing yellow-orange spots on leaves.",
-    "desc_hi": "यह फंगल रोग पत्तियों पर पीले-नारंगी धब्बे बनाता है।",
-    "cure_en": "Apply fungicide and remove nearby juniper plants.",
+    "name_en": "Cedar Apple Rust",
+    "name_hi": "सीडर एप्पल रस्ट",
+    "desc_en": "Causes yellow-orange spots on leaves.",
+    "desc_hi": "यह पत्तियों पर पीले-नारंगी धब्बे बनाता है।",
+    "cure_en": "Use fungicide and remove nearby juniper plants.",
     "cure_hi": "फफूंदनाशक का उपयोग करें और पास के जुनिपर पौधों को हटाएं।"
   },
   "Apple___healthy": {
@@ -28,58 +28,49 @@
     "name_hi": "स्वस्थ सेब",
     "desc_en": "No disease detected.",
     "desc_hi": "कोई रोग नहीं पाया गया।",
-    "cure_en": "No treatment needed.",
+    "cure_en": "No treatment required.",
     "cure_hi": "कोई उपचार आवश्यक नहीं है।"
-  },
-
-  "Blueberry___healthy": {
-    "name_en": "Healthy Blueberry",
-    "name_hi": "स्वस्थ ब्लूबेरी",
-    "desc_en": "Plant is healthy with no visible disease.",
-    "desc_hi": "पौधा स्वस्थ है और कोई रोग नहीं है।",
-    "cure_en": "Maintain proper soil acidity and drainage.",
-    "cure_hi": "मिट्टी की अम्लता और जल निकासी बनाए रखें।"
   },
 
   "Cherry_(including_sour)___Powdery_mildew": {
     "name_en": "Cherry Powdery Mildew",
     "name_hi": "चेरी पाउडरी मिल्ड्यू",
-    "desc_en": "White powdery fungal growth on leaves.",
-    "desc_hi": "पत्तियों पर सफेद पाउडर जैसा फंगल विकास।",
+    "desc_en": "White powdery growth on leaves.",
+    "desc_hi": "पत्तियों पर सफेद पाउडर जैसा पदार्थ बनता है।",
     "cure_en": "Apply sulfur-based fungicide.",
     "cure_hi": "सल्फर आधारित फफूंदनाशक का उपयोग करें।"
   },
   "Cherry_(including_sour)___healthy": {
     "name_en": "Healthy Cherry",
     "name_hi": "स्वस्थ चेरी",
-    "desc_en": "No disease detected.",
-    "desc_hi": "कोई रोग नहीं पाया गया।",
+    "desc_en": "No disease present.",
+    "desc_hi": "कोई रोग नहीं है।",
     "cure_en": "No treatment needed.",
     "cure_hi": "कोई उपचार आवश्यक नहीं है।"
   },
 
   "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
-    "name_en": "Corn Gray Leaf Spot",
-    "name_hi": "मक्का ग्रे लीफ स्पॉट",
-    "desc_en": "Causes gray lesions on leaves reducing yield.",
-    "desc_hi": "यह पत्तियों पर ग्रे धब्बे बनाता है और उत्पादन घटाता है।",
-    "cure_en": "Use fungicide and crop rotation.",
+    "name_en": "Gray Leaf Spot",
+    "name_hi": "ग्रे लीफ स्पॉट",
+    "desc_en": "Gray lesions on leaves reducing yield.",
+    "desc_hi": "पत्तियों पर ग्रे धब्बे बनते हैं और उत्पादन घटता है।",
+    "cure_en": "Apply fungicide and practice crop rotation.",
     "cure_hi": "फफूंदनाशक का उपयोग करें और फसल चक्र अपनाएं।"
   },
   "Corn_(maize)___Common_rust_": {
-    "name_en": "Corn Common Rust",
-    "name_hi": "मक्का कॉमन रस्ट",
-    "desc_en": "Reddish-brown pustules appear on leaves.",
-    "desc_hi": "पत्तियों पर लाल-भूरे धब्बे दिखाई देते हैं।",
-    "cure_en": "Use resistant varieties and fungicide.",
+    "name_en": "Common Rust",
+    "name_hi": "कॉमन रस्ट",
+    "desc_en": "Reddish-brown pustules on leaves.",
+    "desc_hi": "पत्तियों पर लाल-भूरे धब्बे बनते हैं।",
+    "cure_en": "Use resistant varieties and fungicides.",
     "cure_hi": "प्रतिरोधी किस्में और फफूंदनाशक का उपयोग करें।"
   },
   "Corn_(maize)___Northern_Leaf_Blight": {
-    "name_en": "Corn Northern Leaf Blight",
-    "name_hi": "मक्का नॉर्दर्न लीफ ब्लाइट",
-    "desc_en": "Long gray lesions on leaves.",
+    "name_en": "Northern Leaf Blight",
+    "name_hi": "नॉर्दर्न लीफ ब्लाइट",
+    "desc_en": "Long gray-green lesions on leaves.",
     "desc_hi": "पत्तियों पर लंबे ग्रे धब्बे बनते हैं।",
-    "cure_en": "Use resistant hybrids and fungicides.",
+    "cure_en": "Use resistant seeds and fungicides.",
     "cure_hi": "प्रतिरोधी बीज और फफूंदनाशक का उपयोग करें।"
   },
   "Corn_(maize)___healthy": {
@@ -94,16 +85,16 @@
   "Grape___Black_rot": {
     "name_en": "Grape Black Rot",
     "name_hi": "अंगूर ब्लैक रॉट",
-    "desc_en": "Causes dark spots and fruit rot.",
-    "desc_hi": "यह फलों को सड़ाता है और काले धब्बे बनाता है।",
-    "cure_en": "Apply fungicide and remove infected fruit.",
-    "cure_hi": "फफूंदनाशक का उपयोग करें और संक्रमित फलों को हटाएं।"
+    "desc_en": "Dark lesions and fruit rot.",
+    "desc_hi": "काले धब्बे और फल सड़न।",
+    "cure_en": "Remove infected parts and apply fungicide.",
+    "cure_hi": "संक्रमित भाग हटाएं और फफूंदनाशक का उपयोग करें।"
   },
   "Grape___Esca_(Black_Measles)": {
     "name_en": "Grape Esca",
     "name_hi": "अंगूर एस्का",
-    "desc_en": "Causes leaf discoloration and vine decline.",
-    "desc_hi": "पत्तियों का रंग बदलता है और पौधा कमजोर होता है।",
+    "desc_en": "Leaf discoloration and vine decline.",
+    "desc_hi": "पत्तियों का रंग बदलता है और बेल कमजोर होती है।",
     "cure_en": "Remove infected vines.",
     "cure_hi": "संक्रमित बेलों को हटाएं।"
   },
@@ -119,91 +110,147 @@
     "name_en": "Healthy Grape",
     "name_hi": "स्वस्थ अंगूर",
     "desc_en": "No disease detected.",
-    "desc_hi": "कोई रोग नहीं पाया गया।",
+    "desc_hi": "कोई रोग नहीं है।",
     "cure_en": "No treatment needed.",
     "cure_hi": "कोई उपचार आवश्यक नहीं है।"
   },
 
-  "Orange___Haunglongbing_(Citrus_greening)": {
-    "name_en": "Citrus Greening",
-    "name_hi": "सिट्रस ग्रीनिंग",
-    "desc_en": "Serious bacterial disease affecting fruit quality.",
-    "desc_hi": "यह एक गंभीर बैक्टीरियल रोग है जो फलों की गुणवत्ता को प्रभावित करता है।",
-    "cure_en": "Control psyllids and remove infected trees.",
-    "cure_hi": "कीट नियंत्रण करें और संक्रमित पेड़ों को हटाएं।"
+  "Pepper_bell___Bacterial_spot": {
+    "name_en": "Pepper Bacterial Spot",
+    "name_hi": "शिमला मिर्च बैक्टीरियल स्पॉट",
+    "desc_en": "Bacterial disease causing small dark spots on leaves and fruits.",
+    "desc_hi": "यह बैक्टीरियल रोग है जो पत्तियों और फलों पर छोटे गहरे धब्बे बनाता है।",
+    "cure_en": "Apply copper-based bactericides and use disease-free seeds.",
+    "cure_hi": "कॉपर आधारित बैक्टीरिसाइड का उपयोग करें और रोग मुक्त बीज लगाएं।"
   },
-
-  "Peach___Bacterial_spot": {
-    "name_en": "Peach Bacterial Spot",
-    "name_hi": "आड़ू बैक्टीरियल स्पॉट",
-    "desc_en": "Causes dark lesions on leaves and fruit.",
-    "desc_hi": "पत्तियों और फलों पर काले धब्बे बनते हैं।",
-    "cure_en": "Use copper sprays.",
-    "cure_hi": "कॉपर स्प्रे का उपयोग करें।"
-  },
-  "Peach___healthy": {
-    "name_en": "Healthy Peach",
-    "name_hi": "स्वस्थ आड़ू",
-    "desc_en": "No disease detected.",
-    "desc_hi": "कोई रोग नहीं पाया गया।",
-    "cure_en": "No treatment needed.",
-    "cure_hi": "कोई उपचार आवश्यक नहीं है।"
-  },
-
-  "Potato___Early_blight": {
-    "name_en": "Potato Early Blight",
-    "name_hi": "आलू अर्ली ब्लाइट",
-    "desc_en": "Dark spots with concentric rings on leaves.",
-    "desc_hi": "पत्तियों पर गोलाकार काले धब्बे बनते हैं।",
-    "cure_en": "Use fungicide.",
-    "cure_hi": "फफूंदनाशक का उपयोग करें।"
-  },
-  "Potato___Late_blight": {
-    "name_en": "Potato Late Blight",
-    "name_hi": "आलू लेट ब्लाइट",
-    "desc_en": "Rapidly spreads causing plant decay.",
-    "desc_hi": "यह तेजी से फैलता है और पौधे को नष्ट करता है।",
-    "cure_en": "Remove infected plants.",
-    "cure_hi": "संक्रमित पौधों को हटाएं।"
-  },
-  "Potato___healthy": {
-    "name_en": "Healthy Potato",
-    "name_hi": "स्वस्थ आलू",
-    "desc_en": "Healthy plant.",
+  "Pepper_bell___healthy": {
+    "name_en": "Healthy Pepper",
+    "name_hi": "स्वस्थ शिमला मिर्च",
+    "desc_en": "Plant is healthy.",
     "desc_hi": "पौधा स्वस्थ है।",
     "cure_en": "No treatment needed.",
     "cure_hi": "कोई उपचार आवश्यक नहीं है।"
   },
 
+  "Potato___Early_blight": {
+    "name_en": "Early Blight",
+    "name_hi": "अर्ली ब्लाइट",
+    "desc_en": "Dark concentric spots on leaves.",
+    "desc_hi": "पत्तियों पर गोलाकार काले धब्बे बनते हैं।",
+    "cure_en": "Apply fungicide.",
+    "cure_hi": "फफूंदनाशक का उपयोग करें।"
+  },
+  "Potato___Late_blight": {
+    "name_en": "Late Blight",
+    "name_hi": "लेट ब्लाइट",
+    "desc_en": "Rapid plant decay and rot.",
+    "desc_hi": "पौधे तेजी से सड़ते हैं।",
+    "cure_en": "Remove infected plants and apply fungicide.",
+    "cure_hi": "संक्रमित पौधों को हटाएं और फफूंदनाशक का उपयोग करें।"
+  },
+  "Potato___healthy": {
+    "name_en": "Healthy Potato",
+    "name_hi": "स्वस्थ आलू",
+    "desc_en": "No disease detected.",
+    "desc_hi": "कोई रोग नहीं है।",
+    "cure_en": "No treatment needed.",
+    "cure_hi": "कोई उपचार आवश्यक नहीं है।"
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "name_en": "Leaf Scorch",
+    "name_hi": "लीफ स्कॉर्च",
+    "desc_en": "Burn-like leaf damage.",
+    "desc_hi": "पत्तियों पर जलने जैसे धब्बे।",
+    "cure_en": "Remove infected leaves and apply fungicide.",
+    "cure_hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक का उपयोग करें।"
+  },
+  "Strawberry___healthy": {
+    "name_en": "Healthy Strawberry",
+    "name_hi": "स्वस्थ स्ट्रॉबेरी",
+    "desc_en": "No disease present.",
+    "desc_hi": "कोई रोग नहीं है।",
+    "cure_en": "No treatment needed.",
+    "cure_hi": "कोई उपचार आवश्यक नहीं है।"
+  },
+
   "Tomato___Bacterial_spot": {
-    "name_en": "Tomato Bacterial Spot",
-    "name_hi": "टमाटर बैक्टीरियल स्पॉट",
+    "name_en": "Bacterial Spot",
+    "name_hi": "बैक्टीरियल स्पॉट",
     "desc_en": "Small dark lesions on leaves.",
     "desc_hi": "पत्तियों पर छोटे काले धब्बे बनते हैं।",
     "cure_en": "Use copper sprays.",
     "cure_hi": "कॉपर स्प्रे का उपयोग करें।"
   },
   "Tomato___Early_blight": {
-    "name_en": "Tomato Early Blight",
-    "name_hi": "टमाटर अर्ली ब्लाइट",
-    "desc_en": "Dark spots with rings on leaves.",
-    "desc_hi": "पत्तियों पर गोलाकार काले धब्बे बनते हैं।",
+    "name_en": "Early Blight",
+    "name_hi": "अर्ली ब्लाइट",
+    "desc_en": "Dark spots with rings.",
+    "desc_hi": "गोलाकार काले धब्बे बनते हैं।",
     "cure_en": "Use fungicide.",
     "cure_hi": "फफूंदनाशक का उपयोग करें।"
   },
   "Tomato___Late_blight": {
-    "name_en": "Tomato Late Blight",
-    "name_hi": "टमाटर लेट ब्लाइट",
-    "desc_en": "Serious disease causing rapid decay.",
-    "desc_hi": "यह एक गंभीर रोग है जो पौधे को तेजी से खराब करता है।",
+    "name_en": "Late Blight",
+    "name_hi": "लेट ब्लाइट",
+    "desc_en": "Severe rot disease.",
+    "desc_hi": "गंभीर सड़न रोग।",
     "cure_en": "Use copper fungicide.",
     "cure_hi": "कॉपर फफूंदनाशक का उपयोग करें।"
+  },
+  "Tomato___Leaf_Mold": {
+    "name_en": "Leaf Mold",
+    "name_hi": "लीफ मोल्ड",
+    "desc_en": "Yellow spots with mold underside.",
+    "desc_hi": "पीले धब्बे और नीचे फफूंद।",
+    "cure_en": "Improve ventilation and use fungicide.",
+    "cure_hi": "वेंटिलेशन बढ़ाएं और फफूंदनाशक का उपयोग करें।"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "name_en": "Septoria Leaf Spot",
+    "name_hi": "सेप्टोरिया लीफ स्पॉट",
+    "desc_en": "Small circular spots on leaves.",
+    "desc_hi": "पत्तियों पर छोटे गोल धब्बे।",
+    "cure_en": "Remove infected leaves and apply fungicide.",
+    "cure_hi": "संक्रमित पत्तियां हटाएं और फफूंदनाशक लगाएं।"
+  },
+  "Tomato___Spider_mites_Two_spotted_spider_mite": {
+    "name_en": "Spider Mites",
+    "name_hi": "स्पाइडर माइट्स",
+    "desc_en": "Tiny pests causing leaf damage.",
+    "desc_hi": "छोटे कीट जो पत्तियों को नुकसान पहुंचाते हैं।",
+    "cure_en": "Use neem oil or insecticide.",
+    "cure_hi": "नीम तेल या कीटनाशक का उपयोग करें।"
+  },
+  "Tomato___Target_Spot": {
+    "name_en": "Target Spot",
+    "name_hi": "टारगेट स्पॉट",
+    "desc_en": "Circular lesions on leaves.",
+    "desc_hi": "गोलाकार धब्बे बनते हैं।",
+    "cure_en": "Apply fungicide.",
+    "cure_hi": "फफूंदनाशक का उपयोग करें।"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "name_en": "Yellow Leaf Curl Virus",
+    "name_hi": "येलो लीफ कर्ल वायरस",
+    "desc_en": "Leaf curling and stunted growth.",
+    "desc_hi": "पत्तियां मुड़ जाती हैं और विकास रुकता है।",
+    "cure_en": "Control whiteflies and remove infected plants.",
+    "cure_hi": "व्हाइटफ्लाई नियंत्रण करें और संक्रमित पौधे हटाएं।"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "name_en": "Tomato Mosaic Virus",
+    "name_hi": "टमाटर मोज़ेक वायरस",
+    "desc_en": "Mosaic patterns on leaves.",
+    "desc_hi": "पत्तियों पर मोज़ेक पैटर्न बनता है।",
+    "cure_en": "Remove infected plants.",
+    "cure_hi": "संक्रमित पौधों को हटाएं।"
   },
   "Tomato___healthy": {
     "name_en": "Healthy Tomato",
     "name_hi": "स्वस्थ टमाटर",
     "desc_en": "No disease detected.",
-    "desc_hi": "कोई रोग नहीं पाया गया।",
+    "desc_hi": "कोई रोग नहीं है।",
     "cure_en": "No treatment needed.",
     "cure_hi": "कोई उपचार आवश्यक नहीं है।"
   }
